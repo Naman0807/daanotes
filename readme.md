@@ -335,10 +335,6 @@
      3. Check for negative weight cycles by relaxing all edges one more time.
      4. The shortest paths are found in the distance array.
 
-These detailed notes should provide you with a comprehensive understanding of the topics you mentioned. Each algorithm is explained with examples and detailed steps to help you grasp the concepts better.
-
-Sure, let's dive into each of these topics with detailed explanations and examples.
-
 ### Introduction to Algorithms
 
 **Algorithms** are step-by-step procedures or formulas for solving problems. They are fundamental to computer science and are used to perform calculations, data processing, and automated reasoning tasks.
@@ -457,5 +453,3 @@ The **Random Access Machine (RAM)** is an abstract model used to analyze the tim
 - Step 4: [12, 22, 11, 25, 34, 64, 90]
 - Step 5: [12, 11, 22, 25, 34, 64, 90]
 - Step 6: [11, 12, 22, 25, 34, 64, 90]
-
-These detailed notes should provide you with a comprehensive understanding of the topics related to the introduction, analysis, and design techniques of algorithms, as well as basic sorting algorithms. Each concept is explained with examples and detailed steps to help you grasp the material
